@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+package com.company;
 
-You can use the [editor on GitHub](https://github.com/M4X-05/themandalorian/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+public class Main {
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/M4X-05/themandalorian/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    public static void main(String[] args) {
+        System.out.println(" /-------------------------------------\\");
+        System.out.println("| The Mandolorian                       |");
+        System.out.println("| Players Currently Online: 100,392,394 |");
+        System.out.println("| Game Last Rebooted June 8, 3049      |");
+        System.out.println("| Press Space Bar To Start              |");
+        System.out.println(" \\-------------------------------------/");
+        System.out.println("\t\t\t\t\t  ___________________--------___________________");
+        System.out.println("					 /                   ^      ^                   \\");
+        System.out.println("\t\t\t\t\t/ \t\t             | \t    |                    \\");
+        System.out.println("			       /                     |      |                     \\");
+        System.out.println("\t\t\t\t  /\t \t\t             |      |                      \\");
+        System.out.println("				 /			             |      |                       \\");
+        System.out.println("				 |			             |      |                       |");
+        System.out.println("\t\t\t\t /\t\t\t             |      |                        \\ ");
+        System.out.println("\t\t\t\t|\t\t\t             |      |                        | ");
+        System.out.println("			    |________________________|      |________________________|");
+        System.out.println("	     	    |   ______________________\\____/______________________   |");
+        System.out.println("                |	|####*#####*##################*##################|   |");
+        System.out.println("\t\t\t\t|\t\\################*########################*#####/    |");
+        System.out.println("\t\t\t\t|\\\t  \\________________##########*##______________/     /|");
+        System.out.println("  \t\t\t\t| \\\t\t\t           \\###########/                   / |");
+        System.out.println("\t\t\t\t|  \\_____________       |#########|       ____________/  |");
+        System.out.println(" \t\t\t\t|\t    /\t    \\\t    |#########|      /      \\        |");
+        System.out.println("\t\t\t\t|\t   /\t     \\      |#########|\t    /\t  /  \\       |");
+        System.out.println("\t\t\t\t|\t  /\t          \\\t    |#########|    /          \\      |");
+        System.out.println("\t\t\t\t|\t /\t\" /        \\    |#########|   /            \\     |");
+        System.out.println("\t\t\t\t|   /   \t/\t\t\\   |#########|  /           \"  \\    |");
+        System.out.println("\t\t\t\t|  /\t\"\t         \\  |#########| /             /  \\   |");
+        System.out.println("\t\t\t\t| /\t\t/\t          | |#########|\t|             /\t  \\  |");
+        System.out.println("\t\t\t\t \\/____ \t\t      | |#########| |            / ____\\/");
+        System.out.println("\t\t\t\t\t   \\_____\t      | |#########| |        _____/");
+        System.out.println("\t\t\t\t\t\t     \\______  | |_________| |  _____/  ");
+        System.out.println("\t\t  \t\t   \t\t  \t        \\_|_/         \\_|_/");
+        System.out.println("    '-._\"7'");
+        System.out.println("     /'.-c");
+        System.out.println("     |  /T");
+        System.out.println("snd _)_/LI");
+    }
+}
